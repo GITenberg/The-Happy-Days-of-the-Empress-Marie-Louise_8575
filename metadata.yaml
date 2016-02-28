@@ -1,0 +1,34 @@
+_repo: The-Happy-Days-of-the-Empress-Marie-Louise_8575
+alternative_title: Les beaux jours de l'impératrice Marie-Louise. English
+contributor:
+  translator:
+    agent_name: Perry, Thomas Sergeant
+    birthdate: 1845
+    deathdate: 1928
+    gutenberg_agent_id: '3159'
+    url: http://www.gutenberg.org/2009/agents/3159
+creator:
+  author:
+    agent_name: Imbert de Saint-Amand
+    aliases:
+    - Imbert de Saint-Amand, Arthur Léon, baron
+    - Saint-Amand, Imbert de
+    - Imbert de Saint-Amand, Arthur Leon, baron
+    birthdate: 1834
+    deathdate: 1900
+    gutenberg_agent_id: '1431'
+    url: http://www.gutenberg.org/2009/agents/1431
+description: ''
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8575'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Marie Louise, Empress, consort of Napoleon I, Emperor of the French, 1791-1847'
+title: The Happy Days of the Empress Marie Louise
+url: http://www.gutenberg.org/ebooks/8575
